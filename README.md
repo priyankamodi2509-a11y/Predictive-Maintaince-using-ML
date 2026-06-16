@@ -34,4 +34,4 @@ To predict machine failure so that maintenance can be done before breakdown.
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run pred.py
